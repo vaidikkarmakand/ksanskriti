@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // basePath: '/karmakand',
-  // assetPrefix: '/karmakand/',
+  basePath: '/',
+  assetPrefix: '/',
 }
 
 module.exports = nextConfig
